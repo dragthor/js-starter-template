@@ -1,6 +1,6 @@
 # js-starter-template
 
-# Javascript Development
+## Javascript Development
 
 Starter Kit
 Seed
